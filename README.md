@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="left">Varad Adhyapak 👨‍💻</h1>
+<h3 align="left">Machine Learning & Computer Vision Engineer</h3>
+<p align="left"><i>Deep Learning Architectures. Object Detection. MLOps that just works.</i></p>
 
-<!--
-**Varad1006/Varad1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-Varad1006-181717?logo=github&logoColor=white)](https://github.com/Varad1006)
+[![Location](https://img.shields.io/badge/Location-Pune,_India-blue?logo=google-maps&logoColor=white)](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About
+
+```yaml
+role: ml-engineer
+level: intermediate
+focus:
+  - computer-vision
+  - mlops
+  - deep-learning-architectures
+active_projects:
+  - DeepRef (AI Football Referee)
+  - multi-view-foul-recognition
