@@ -20,6 +20,22 @@ Designing scalable AI systems focused on Computer Vision, Deep Learning, Multimo
   <img src="https://img.shields.io/badge/Location-Pune,_India-0A66C2?logo=googlemaps&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20LLMs%20%7C%20MLOps-8A2BE2"/>
+
+  ## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,streamlit,docker,mongodb,linux,git,githubactions" />
+</p>
+
+---
+
+## 📊 Development Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Varad1006&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 </p>
 
 ---
