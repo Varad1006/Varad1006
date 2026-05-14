@@ -24,6 +24,9 @@ Designing scalable AI systems focused on Computer Vision, Deep Learning, Multimo
 
 <p align="center"> <a href="https://github.com/Varad1006"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /> </a> <a href="mailto:YOURMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /> </a> </p>
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,opencv,flask,streamlit,react,nodejs,mongodb,mysql,docker,git,github,githubactions,linux,vscode" /> </p>
+
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Varad1006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad1006&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Varad1006&theme=tokyonight&hide_border=true" /> </p>
 ---
 
 # 🧠 Engineering Profile
